@@ -1,4 +1,4 @@
-import urav
+import discr
 
 print("Введите коэффициенты для уравнения")
 print("ax^2 + bx + c = 0:")
