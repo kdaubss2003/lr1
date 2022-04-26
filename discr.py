@@ -1,3 +1,4 @@
+import math  
 import discr
 
 print("Введите коэффициенты для уравнения")
